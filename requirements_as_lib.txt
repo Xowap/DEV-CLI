@@ -1,0 +1,4 @@
+httpx>=0.7
+python-frontmatter>=0.4
+coloredlogs>=10
+python-dotenv>=0.10

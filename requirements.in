@@ -1,0 +1,11 @@
+httpx
+python-frontmatter
+coloredlogs
+python-dotenv
+
+# dev
+pip-tools
+ipython
+black
+isort
+pytest
